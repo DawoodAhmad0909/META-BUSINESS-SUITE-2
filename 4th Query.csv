@@ -1,0 +1,24 @@
+post_id,user_id,username,content,post_date,likes,comments,shares,post_type
+7,107,gary_music,"Cover of "Blinding Lights" ","2023-06-04 16:10:00",670,43,28,video
+9,109,ian_gaming,"Speedrun record achieved! ","2023-06-05 10:30:00",1500,112,87,video
+19,119,sam_gaming,"Live streaming Fortnite tonight!","2023-06-10 22:00:00",1350,98,72,video
+23,123,will_tech,"Building a custom PC setup","2023-06-12 13:40:00",590,42,20,video
+29,129,cara_gaming,"Minecraft castle build timelapse","2023-06-15 21:00:00",1100,76,55,video
+33,133,grace_tech,"iOS 17 first impressions","2023-06-17 15:15:00",530,39,17,video
+37,137,kate_music,"Piano cover of "Clocks","2023-06-19 20:10:00",810,57,34,video
+39,139,mia_gaming,"Valorant tournament highlights","2023-06-20 18:30:00",1250,84,62,video
+43,143,quinn_tech,"DIY home automation project","2023-06-22 14:30:00",610,44,19,video
+49,149,willa_gaming,"Speedrunning Mario 64","2023-06-25 22:40:00",1400,92,68,video
+53,153,ava_tech,"Best budget laptops 2023","2023-06-27 15:40:00",550,41,18,video
+57,157,emma_music,"Singing my original song!","2023-06-29 20:30:00",790,56,35,video
+59,159,gia_gaming,"Apex Legends clutch moment","2023-06-30 18:50:00",1150,79,58,video
+63,163,kate_tech,"Setting up a home server","2023-07-02 15:50:00",620,45,20,video
+69,169,quinn_gaming,"Zelda: Tears of the Kingdom 100%","2023-07-05 23:00:00",1300,87,64,video
+73,173,umar_tech,"Building a Raspberry Pi cluster","2023-07-07 15:00:00",590,43,19,video
+77,177,yara_music,"Guitar cover of "Wonderwall"","2023-07-09 19:50:00",850,60,36,video
+79,179,amy_gaming,"League of Legends pentakill","2023-07-10 18:10:00",1200,82,60,video
+83,183,ella_tech,"My coding setup for 2023","2023-07-12 15:10:00",640,47,21,video
+89,189,kate_gaming,"Minecraft mega build tour","2023-07-15 22:20:00",1250,85,63,video
+93,193,olivia_tech,"How I organize my Notion","2023-07-17 15:20:00",660,49,22,video
+97,197,steve_music,"Piano jazz improvisation","2023-07-19 20:10:00",890,63,38,video
+99,199,umar_gaming,"CS:GO tournament finals","2023-07-20 18:30:00",1400,95,70,video
