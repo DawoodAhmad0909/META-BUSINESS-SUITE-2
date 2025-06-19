@@ -21,7 +21,7 @@ USE MBS_db;
 ```
 ## Creating Table 
 ### Table:Social_media_posts
-``| sql
+``` sql
 CREATE TABLE Social_media_posts(
     post_id    INT PRIMARY KEY,
     user_id    INT,
