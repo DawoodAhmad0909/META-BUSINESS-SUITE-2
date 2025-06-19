@@ -15,8 +15,10 @@ Identify active users and their posting patterns.
 #### 6. Support Decision-Making: 
  Enable data-driven insights for marketing, content strategy, and user engagement enhancement.
 ## Creating Database 
+```sql
 CREATE DATABASE MBS_db;
 USE MBS_db;
+```
 ## Creating Table 
 ### Table:Social_media_posts
 ``| sql
