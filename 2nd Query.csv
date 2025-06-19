@@ -5,7 +5,7 @@ post_id,user_id,username,content,post_date,likes,comments,shares,post_type
 4,104,diana_travel,"Sunset in Bali ","2023-06-02 18:00:00",890,78,42,image
 5,105,evan_fit,"Morning workout routine ","2023-06-03 07:30:00",1200,95,65,reel
 6,106,fiona_art,"New painting in progress ","2023-06-03 13:20:00",340,21,5,image
-7,107,gary_music,""Cover of ""Blinding Lights"""","2023-06-04 16:10:00",670,43,28,video
+7,107,gary_music,"Cover of ""Blinding Lights""","2023-06-04 16:10:00",670,43,28,video
 8,108,hannah_books,"Just finished this novel! ","2023-06-04 20:45:00",210,15,3,text
 9,109,ian_gaming,"Speedrun record achieved! ","2023-06-05 10:30:00",1500,112,87,video
 10,110,jane_foodie,"Sushi night! ","2023-06-05 19:00:00",430,38,19,image
@@ -75,7 +75,7 @@ post_id,user_id,username,content,post_date,likes,comments,shares,post_type
 74,174,vicky_travel,"Hot air balloon festival ","2023-07-08 10:35:00",920,65,43,image
 75,175,will_cook,"Homemade ramen bowl ","2023-07-08 17:20:00",550,40,21,image
 76,176,xena_style,"Accessory haul ","2023-07-09 13:05:00",320,22,8,image
-77,177,yara_music,""Guitar cover of ""Wonderwall"""","2023-07-09 19:50:00",850,60,36,video
+77,177,yara_music,"Guitar cover of ""Wonderwall""","2023-07-09 19:50:00",850,60,36,video
 78,178,zack_art,"Oil painting techniques","2023-07-10 11:25:00",370,26,10,image
 79,179,amy_gaming,"League of Legends pentakill","2023-07-10 18:10:00",1200,82,60,video
 80,180,ben_food,"Breakfast burrito recipe ","2023-07-11 09:55:00",600,44,23,image
